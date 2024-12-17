@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RdbHEQ1Vjlc=",
+  "success": true,
+  "projectFilePath": "D:\\TestFSharp\\TestFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caverna\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
